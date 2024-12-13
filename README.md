@@ -49,7 +49,7 @@ Run exe:
 
 ## minimal.asm
 
-Just opens and immediatly dies, not sure what else im supposed to say
+Just opens and immediately dies, not sure what else im supposed to say
 
 assemble script:
 
